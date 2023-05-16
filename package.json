@@ -1,0 +1,14 @@
+{
+  "name": "d2b1d857ce3db82c",
+  "main": "d2b1d857ce3db82c@1075.js",
+  "version": "1075.0.0",
+  "homepage": "https://observablehq.com/d/d2b1d857ce3db82c",
+  "author": {
+    "name": "Ventes-Jeux-Videos",
+    "url": "https://observablehq.com/@jeux-visu"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
