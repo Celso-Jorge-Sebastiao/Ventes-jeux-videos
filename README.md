@@ -46,6 +46,6 @@ Structure du code :
 
 Ce projet a été développé par Celso Jorge Sebastiao, dans le cadre du Master DCS à l'UNIL pour le cours "Visualisation de données", dispensé par Isaac Pante (SLI, Lettres, UNIL).
 
-## 6. Issues
+## 6. Remarques
 
 Les dates sont limitées, il manque des données sur certains jeux importants, le nombre de ventes ne prend pas en compte le prix des jeux, le pouvoir d'achat entre les régions. La popularité d'une console n'est pas limitée aux jeux les plus vendus et cela ne permet pas d'inférer sur la qualité de celles-ci, ni de celle des jeux moins populaires. 
