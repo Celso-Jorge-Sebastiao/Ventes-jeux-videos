@@ -34,7 +34,7 @@ ChatGPT a été utilisé sous une instance de sa série 3.5 entre le 9 mai 2023 
 
 - La [base de données](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings) utilisée a été importée via le site Kaggle (Owner Rush Kirubi).
 
-- Celle-ci se base sur une base de donnée préexistante mise à disposition par [Gregory Smith](https://www.kaggle.com/gregorut/datasets).
+- Celle-ci se base sur une base de données préexistante mise à disposition par [Gregory Smith](https://www.kaggle.com/gregorut/datasets).
 
 Structure du code : 
 
